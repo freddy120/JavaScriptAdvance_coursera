@@ -9,7 +9,7 @@ var theRightSide = document.getElementById("rightSide");
 var theBody = document.getElementsByTagName("body")[0];
 
 function generateFaces() {
-    theLeftSide.remov
+
     for(var count = 0; count < numberOfFaces; count++){
         var img = document.createElement("img");
         img.src = "smile.png";
