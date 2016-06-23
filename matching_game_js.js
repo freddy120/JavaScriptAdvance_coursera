@@ -1,7 +1,7 @@
-
 /* 
- Matching gamer
+ Matching game
  author: freddy120
+ Universidad Nacional de Ingeniria -  Lima, Peru
 */
 var numberOfFaces = 5;
 var theLeftSide = document.getElementById("leftSide");
